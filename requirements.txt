@@ -1,0 +1,14 @@
+certifi==2020.11.8
+chardet==3.0.4
+clickhouse-cityhash==1.0.2.3
+clickhouse-driver==0.1.5
+colorlog==4.6.2
+idna==2.10
+lz4==3.0.1
+munch==2.5.0
+pytz==2020.4
+requests==2.25.0
+six==1.15.0
+tzlocal==2.1
+urllib3==1.26.2
+zstd==1.4.5.1
